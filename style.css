@@ -1,0 +1,54 @@
+header{
+    background-color: aqua;
+    padding:30px;
+    margin: 0;
+   
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.bebas {
+    justify-content: space-between;
+    display:flex ;
+    align-items: center;
+    
+    
+}
+header ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    font-family: "Bitcount", system-ui;
+
+
+}
+header nav ul li a{
+    color: black;
+}
+header nav ul li a:hover{
+    color: blue;
+}
+
+header .alok{
+    gap:20px;
+    width: 20px;
+    height: 20px;
+}
+h3 span{
+    color: red;
+    font-size: 30px;
+    font-family: "Bitcount", system-ui;
+    
+    
+
+}
+.banner{
+    width: 100%;
+    height: outo;
+    object-fit: cover;
+    display: block;
+}

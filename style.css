@@ -38,7 +38,14 @@ header .alok{
     width: 20px;
     height: 20px;
 }
+h3 span{
+    color: red;
+    font-size: 30px;
+    font-family: "Bitcount", system-ui;
+    
+    
 
+}
 .banner{
     width: 100%;
     overflow: hidden;
@@ -50,7 +57,3 @@ header .alok{
     display: block;
     border: 10px solid black;
 }
-
-
-
-

@@ -38,17 +38,17 @@ header .alok{
     width: 20px;
     height: 20px;
 }
-h3 span{
-    color: red;
-    font-size: 30px;
-    font-family: "Bitcount", system-ui;
-    
-    
 
-}
 .banner{
     width: 100%;
-    height: outo;
+    overflow: hidden;
+}
+.banner img{
+    width: 100%;
+    height: auto;
     object-fit: cover;
     display: block;
+    border: 10px solid black;
 }
+
+
